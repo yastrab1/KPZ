@@ -1,0 +1,5 @@
+img.exe
+kpz.exe
+qr.exe
+weather.exe
+yt.exe
